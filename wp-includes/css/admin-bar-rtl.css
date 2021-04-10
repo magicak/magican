@@ -958,14 +958,14 @@ html:lang(he-il) .rtl #wpadminbar * {
 	}
 
 	#wpadminbar li#wp-admin-bar-menu-toggle,
-	#wpadminbar li#wp-admin-bar-wp-logo,
+	/*#wpadminbar li#wp-admin-bar-wp-logo,*/
 	#wpadminbar li#wp-admin-bar-my-sites,
-	#wpadminbar li#wp-admin-bar-updates,
+	/*#wpadminbar li#wp-admin-bar-updates,*/
 	#wpadminbar li#wp-admin-bar-site-name,
 	#wpadminbar li#wp-admin-bar-customize,
 	#wpadminbar li#wp-admin-bar-new-content,
 	#wpadminbar li#wp-admin-bar-edit,
-	#wpadminbar li#wp-admin-bar-comments,
+	/*#wpadminbar li#wp-admin-bar-comments,*/
 	#wpadminbar li#wp-admin-bar-my-account {
 		display: block;
 	}
